@@ -2,7 +2,7 @@
 
 ![flag](FlagWave.gif)
 
-<h3 align="center">Welcome to the AWS Re/start BASH CTF</h3>
+#Welcome to the AWS Re/start BASH CTF
  
 <!-- ABOUT THE PROJECT -->
 ## What's a CTF
@@ -37,9 +37,7 @@ Open the Lab number (41-[LX]-Lab - Bash Shell Scripts)[https://awsrestart.instru
 
 Reminder : This lab has a timer limit of 25 min
 
-<div align="center">
-    <img src="screenshot0_lab_ssh.png" alt="lab_ssh">
-  </a>
+![lab](images/screenshot0_lab_ssh.png)
 
 ### Using the application Putty on windows
 
@@ -52,7 +50,7 @@ Reminder : This lab has a timer limit of 25 min
     Click Connection.
     Set Seconds between keepalives to 30
  
-![puttyConfig1](screenshot2_putty1.png)
+![puttyConfig1](images/screenshot2_putty1.png)
 
   
 4. Input SSH Informations
@@ -61,7 +59,7 @@ Reminder : This lab has a timer limit of 25 min
     Host: bandit.labs.overthewire.org
     Port: 2220
   ```
-![puttyConfig2](screenshot3_putty2.png)
+![puttyConfig2](images/screenshot3_putty2.png)
 
 ### Using SSH directly from you Linux or Mac
   
