@@ -77,7 +77,7 @@ You know what to do 😂 same as the lab uptop open a terminal and ssh into the 
   
 You get a free flag this time 😄 the password is : bandit0
 
-🚩 You can submit your flag here : [SUBMIT FLAG 0](google.com)
+🚩 You can submit your flag here : [SUBMIT FLAG 0](https://forms.gle/KEWbsJAuSmtWPyD29)
   
 ## Challenge level 0 -> level 1
   
@@ -96,7 +96,7 @@ You get a free flag this time 😄 the password is : bandit0
 ls, cd, cat, file, du, find
 ```
   
-🚩 You can submit your flag here : [SUBMIT FLAG 1](google.com)
+🚩 You can submit your flag here : [SUBMIT FLAG 1 (1pt) ](https://forms.gle/rP3y1Cw9uBR5wJrB7)
   
 ## Challenge level 1 -> level 2
   
@@ -120,7 +120,7 @@ ls, cd, cat, file, du, find
     Advanced Bash-scripting Guide - Chapter 3 - Special Characters
 </details>
 
-🚩 You can submit your flag here : [SUBMIT FLAG 2](google.com)
+🚩 You can submit your flag here : [SUBMIT FLAG 2 (2pts)](https://forms.gle/Ho7xrQMN964xQ6sW9)
 
 ## Challenge level 2 -> level 3
   
@@ -143,7 +143,7 @@ ls, cd, cat, file, du, find
     Google Search for “spaces in filename”
 </details>
 
-🚩 You can submit your flag here : [SUBMIT FLAG 3](google.com)
+🚩 You can submit your flag here : [SUBMIT FLAG 3 (2pts)](https://forms.gle/iJnremy5yLETPNCe8)
 
 ## Challenge level 3 -> level 4
   
@@ -164,7 +164,7 @@ ls, cd, cat, file, du, find
  None
 </details>
 
-🚩 You can submit your flag here : [SUBMIT FLAG 4](google.com)
+🚩 You can submit your flag here : [SUBMIT FLAG 4 (2pts)](https://forms.gle/dSE5ZybuqeyFBave9)
 
 ## Challenge level 4 -> level 5
   
@@ -187,7 +187,7 @@ ls, cd, cat, file, du, find
  Google search for "How to find File Types in Linux"
 </details>
 
-🚩 You can submit your flag here : [SUBMIT FLAG 5](google.com)
+🚩 You can submit your flag here : [SUBMIT FLAG 5 (5pts)](https://forms.gle/jbjYLqZ2vnqPd7FZ9)
 
 
 ## Challenge level 5 -> level 6
@@ -220,7 +220,7 @@ ls, cd, cat, file, du, find, grep
  Read the manual for the command find. 
 </details>
 
-🚩 You can submit your flag here : [SUBMIT FLAG 6](google.com)
+🚩 You can submit your flag here : [SUBMIT FLAG 6 (7pts)](https://forms.gle/i2QsDME75yiJVaVj8)
 
 ## Challenge level 6 -> level 7
   
@@ -248,7 +248,7 @@ ls, cd, cat, file, du, find, grep
  Pretty similar to before, just read the manual again. 
 </details>
 
-🚩 You can submit your flag here : [SUBMIT FLAG 7](google.com)
+🚩 You can submit your flag here : [SUBMIT FLAG 7 (7pts)](https://forms.gle/n3MaLzfwmJf5mM4c9)
 
 ## Challenge level 7 -> level 8
   
@@ -266,12 +266,13 @@ grep, sort, uniq, strings, base64, tr, tar, gzip, bzip2, xxd
 ```
 <details>
  <summary>Hint 🐈😺😹</summary>
+ 
   <img src="https://upload.wikimedia.org/wikipedia/en/thumb/b/b9/MagrittePipe.jpg/270px-MagrittePipe.jpg" />
   
   Grep Grep
 </details>
 
-🚩 You can submit your flag here : [SUBMIT FLAG 8](google.com)
+🚩 You can submit your flag here : [SUBMIT FLAG 8 (7pts)](https://forms.gle/Ru8duYF4NvYJucLD6)
 
 ## Challenge level 8 -> level 9
   
@@ -302,7 +303,7 @@ grep, sort, uniq, strings, base64, tr, tar, gzip, bzip2, xxd
   <img src="https://i.kym-cdn.com/photos/images/newsfeed/000/323/067/229.jpg" />
 </details>
 
-🚩 You can submit your flag here : [SUBMIT FLAG 9](google.com)
+🚩 You can submit your flag here : [SUBMIT FLAG 9](https://forms.gle/6YDbbg1h5fnMVBNv6)
 
 ## Bonus Challenge #1
   
