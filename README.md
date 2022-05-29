@@ -288,16 +288,17 @@ The password for the next level is stored in the file `data.txt` and is the only
 grep, sort, uniq, strings, base64, tr, tar, gzip, bzip2, xxd
 ```
 <details>
- <summary>Hint #1</summary>
+ <summary>Hint #1 🐸</summary>
   <img src="https://upload.wikimedia.org/wikipedia/en/thumb/b/b9/MagrittePipe.jpg/270px-MagrittePipe.jpg" />
 </details>
 
 <details>
- <summary>Hint #2</summary>
+ <summary>Hint #2 🐸🐸</summary>
   <img src="https://memegenerator.net/img/instances/51960144/sort-it-out.jpg" />
 </details>
 
- <summary>Hint #3</summary>
+<details>
+ <summary>Hint #3 🐸🐸🐸</summary>
   <img src="https://i.kym-cdn.com/photos/images/newsfeed/000/323/067/229.jpg" />
 </details>
 
