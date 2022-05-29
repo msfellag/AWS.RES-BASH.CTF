@@ -1,11 +1,10 @@
 # AWS.RES-BASH.CTF
 
-<div align="center">
-    <img src="FlagWave.gif" alt="Logo" width="80" height="80">
-  </a>
-  <h3 align="center">Welcome to the AWS Re/start BASH CTF</h3>
+![flag](FlagWave.gif)
+
+<h3 align="center">Welcome to the AWS Re/start BASH CTF</h3>
  
- <!-- ABOUT THE PROJECT -->
+<!-- ABOUT THE PROJECT -->
 ## What's a CTF
 
 A CTF or Capture The Flag, is a game like environment in which you have a series of challenges (think of them like small exercices)
