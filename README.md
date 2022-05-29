@@ -1,18 +1,16 @@
-# AWS.RES-BASH.CTF
+# Welcome to the AWS Re/start BASH CTF
 
-![flag](FlagWave.gif)
-
-#Welcome to the AWS Re/start BASH CTF
+![flag](images/FlagWave.gif)
  
 <!-- ABOUT THE PROJECT -->
 ## What's a CTF
 
-A CTF or Capture The Flag, is a game like environment in which you have a series of challenges (think of them like small exercices)
-you must solve in order to find a "flag"
+A CTF or Capture The Flag, is a game like environment in which you have a series of challenges,
+think of them like small exercices you must solve in order to find a "flag".
 
 For this CTF a flag will look something like this : 
 
-*Flag number 0 :
+** Flag number 0 : **
   ```sh
     1fxfDQbW8LJ97VHcYxDmHREdDQLQZAOo
   ```
@@ -28,12 +26,12 @@ We will need the command SSH (Secure Shell) to access the challenges :
   ```sh
     ssh <USERNEAME>@bandit.labs.overthewire.org -p 2220
   ```
-Replace <USERNAME> with bandit0 for the first challenge and bandit<Number> for all subsequent challenges
+Replace USERNAME with bandit0 for the first challenge and bandit<Number> for all subsequent challenges
 this can be done in one of 3 ways
 
 ### Using one of the Linux labs as a plateform
 
-Open the Lab number (41-[LX]-Lab - Bash Shell Scripts)[https://awsrestart.instructure.com/courses/965/modules/items/448683] 
+Open the Lab number [41 Lab - Bash Shell Scripts](https://awsrestart.instructure.com/courses/965/modules/items/448683)
 
 Reminder : This lab has a timer limit of 25 min
 
@@ -41,7 +39,7 @@ Reminder : This lab has a timer limit of 25 min
 
 ### Using the application Putty on windows
 
-1. Download PuTTY to SSH into the CTF : (Download link)[https://the.earth.li/~sgtatham/putty/latest/w64/putty.exe]
+1. Download PuTTY to SSH into the CTF : [Download link](https://the.earth.li/~sgtatham/putty/latest/w64/putty.exe)
 
 2. Launch putty.exe
 
@@ -69,13 +67,14 @@ You know what to do 😂 same as the lab uptop open a terminal and ssh into the 
  <!-- Getting started-->
 ## Getting Started
 
-**IMPORTANT** : Please save your flags in a text file to not lose them if you get disconnected.
+**IMPORTANT** : 
+> Please save your flags in a text file to not lose them if you get disconnected.
   
 ### Challenge 0
   
 You get a free flag this time 😄 the password is : bandit0
 
-🚩 You can submit your flag here : (SUBMIT FLAG0)[google.com]
+🚩 You can submit your flag here : [SUBMIT FLAG0](google.com)
   
 ### Challenge level 0 -> level 1
   
@@ -92,7 +91,7 @@ Use this password to log into bandit1 using SSH. Whenever you find a password fo
 
 ls, cd, cat, file, du, find
   
-🚩 You can submit your flag here : (SUBMIT FLAG1)[google.com]
+🚩 You can submit your flag here : [SUBMIT FLAG1](google.com)
   
 ### Challenge level 1 -> level 2
   
@@ -113,4 +112,4 @@ ls, cd, cat, file, du, find
     Google Search for “dashed filename”
     Advanced Bash-scripting Guide - Chapter 3 - Special Characters
 
-🚩 You can submit your flag here : (SUBMIT FLAG2)[google.com]
+🚩 You can submit your flag here : [SUBMIT FLAG2](google.com)
