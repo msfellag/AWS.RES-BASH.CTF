@@ -1,22 +1,25 @@
-# Welcome to the AWS Re/start BASH CTF
 
-![flag](images/FlagWave.gif)
+<p align="center">
+  <img width="80" height="80" src="images/Flagwave.gif">
+</p>
+# Welcome to the AWS Re/start BASH CTF
+<!-- ![flag](images/FlagWave.gif) -->
  
 <!-- ABOUT THE PROJECT -->
 ## What's a CTF
 
-A CTF or Capture The Flag, is a game like environment in which you have a series of challenges,
-think of them like small exercices you must solve in order to find a "flag".
+A CTF or Capture The Flag, is a game like environment in which you have a series of challenges,<br />
+think of them like small exercices you must solve in order to find a "flag".<br />
 
 For this CTF a flag will look something like this : 
 
-** Flag number 0 : **
+**Flag number X :**
   ```sh
     1fxfDQbW8LJ97VHcYxDmHREdDQLQZAOo
   ```
   
- it's a 32 characters long string that is unique to each challenge.
- You must find the flag for challenge 1 to get to challenge 2.
+It's a 32 characters long string that is unique to each challenge.<br />
+You must find the flag for challenge 1 to get to challenge 2.
  
  <!-- Prerequisites -->
 ## Prerequisites
@@ -26,8 +29,9 @@ We will need the command SSH (Secure Shell) to access the challenges :
   ```sh
     ssh <USERNEAME>@bandit.labs.overthewire.org -p 2220
   ```
-Replace USERNAME with bandit0 for the first challenge and bandit<Number> for all subsequent challenges
-this can be done in one of 3 ways
+Replace `USERNAME` with `bandit0` for the first challenge and `bandit<Number>` for all subsequent challenges.
+
+This can be done in one of 3 ways :
 
 ### Using one of the Linux labs as a plateform
 
@@ -63,6 +67,8 @@ Reminder : This lab has a timer limit of 25 min
   
 You know what to do 😂 same as the lab uptop open a terminal and ssh into the server.
 
+<br />
+<br />
 
  <!-- Getting started-->
 ## Getting Started
@@ -74,7 +80,7 @@ You know what to do 😂 same as the lab uptop open a terminal and ssh into the 
   
 You get a free flag this time 😄 the password is : bandit0
 
-🚩 You can submit your flag here : [SUBMIT FLAG0](google.com)
+🚩 You can submit your flag here : [SUBMIT FLAG 0](google.com)
   
 ### Challenge level 0 -> level 1
   
@@ -84,14 +90,16 @@ You get a free flag this time 😄 the password is : bandit0
   ```
   **Level Goal**
 
-The password for the next level is stored in a file called **readme** located in the home directory. 
-Use this password to log into bandit1 using SSH. Whenever you find a password for a level, use SSH (on port 2220) to log into that level and continue the game.
+   The password for the next level is stored in a file called **readme** located in the home directory.<br /> 
+   Use this password to log into bandit1 using SSH. <br />
+   Whenever you find a password for a level, use SSH (on port 2220) to log into that level and continue the game.
 
   **Commands you may need to solve this level**
-
+```
 ls, cd, cat, file, du, find
+```
   
-🚩 You can submit your flag here : [SUBMIT FLAG1](google.com)
+🚩 You can submit your flag here : [SUBMIT FLAG 1](google.com)
   
 ### Challenge level 1 -> level 2
   
@@ -101,15 +109,21 @@ ls, cd, cat, file, du, find
   ```
 **Level Goal**
   
-  The password for the next level is stored in a file called **-** located in the home directory
+  The password for the next level is stored in a file called **-** located in the home directory.
   
 **Commands you may need to solve this level**
-
+```
 ls, cd, cat, file, du, find
+```
 
-  **Helpful Reading Material**
+
+
+🚩 You can submit your flag here : [SUBMIT FLAG 2](google.com)
+
+<details>
+ <summary>Hint 🐸</summary>
+   **Helpful Reading Material**
 
     Google Search for “dashed filename”
     Advanced Bash-scripting Guide - Chapter 3 - Special Characters
-
-🚩 You can submit your flag here : [SUBMIT FLAG2](google.com)
+</details>
