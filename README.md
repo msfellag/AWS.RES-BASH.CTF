@@ -52,9 +52,8 @@ Reminder : This lab has a timer limit of 25 min
     Click Connection.
     Set Seconds between keepalives to 30
  
-<div align="center">
-    <img src="screenshot2_putty1.png" alt="putty_config">
-  </a>
+![puttyConfig1](screenshot2_putty1.png)
+
   
 4. Input SSH Informations
 
@@ -62,9 +61,7 @@ Reminder : This lab has a timer limit of 25 min
     Host: bandit.labs.overthewire.org
     Port: 2220
   ```
-<div align="center">
-    <img src="screenshot3_putty2.png" alt="putty_config">
-  </a>
+![puttyConfig2](screenshot3_putty2.png)
 
 ### Using SSH directly from you Linux or Mac
   
