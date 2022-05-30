@@ -17,7 +17,7 @@ Password: bandit0
 
 ##  Level 0 → Level 1
 
-`ls` to find the fole and `cat` to output it's contents to the stdout (standard output)
+`ls` to find the file and `cat` to output it's contents to the stdout (standard output)
 
 ![pic](https://home.adelphi.edu/~ni21347/cybersecgames/OverTheWire/Bandit/pictures/1.png)
 
