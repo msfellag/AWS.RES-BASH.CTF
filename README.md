@@ -32,7 +32,7 @@ This can be done in one of 3 ways :
 
 ### Using one of the Linux labs as a plateform
 
-Open the Lab number [41 Lab - Bash Shell Scripts](https://awsrestart.instructure.com/courses/965/modules/items/448683)
+Open the Lab number [41 Lab - Bash Shell Scripts](https://awsrestart.instructure.com/courses/965/modules/items/448681)
 
 Reminder : This lab has a timer limit of 25 min
 
