@@ -305,29 +305,7 @@ grep, sort, uniq, strings, base64, tr, tar, gzip, bzip2, xxd
 
 🚩 You can submit your flag here : [SUBMIT FLAG 9](https://forms.gle/6YDbbg1h5fnMVBNv6)
 
-## Bonus Challenge #1
-  
-  Download this file using one of these commands `wget` or `curl`
-  
-```
-  wget https://github.com/msfellag/AWS.RES-BASH.CTF/raw/main/files/bonusChallengeNumberOne
-```
-  
-**Level Goal**
-  
-The password is inside the file `bonusChallengeNumberOne`
-  
-**Commands you may need to solve this level**
-```
-grep, sort, uniq, strings, base64, tr, tar, gzip, bzip2, xxd
-```
-<details>
- <summary>Hint #1</summary>
-  Remember Challenge level 5 -> level 6
-</details>
 
-
-🚩 You can submit your flag here : [SUBMIT BONUS FLAG 1](google.com)
 
 
 ## Bonus Challenge #1
@@ -348,7 +326,7 @@ The password is inside the file `bonusChallengeNumberOne`
 </details>
 
 
-🚩 You can submit your flag here : [SUBMIT BONUS FLAG 1](https://forms.gle/PdTvZgEeeiJnwuECA)
+🚩 You can submit your flag here : [SUBMIT BONUS FLAG 1](https://forms.gle/5zYfRcHHwQMMdo8V8)
 
 ## Bonus Challenge #2
   
@@ -368,7 +346,7 @@ None.
 </details>
 
 
-🚩 You can submit your flag here : [SUBMIT BONUS FLAG 2](https://forms.gle/PdTvZgEeeiJnwuECA)
+🚩 You can submit your flag here : [SUBMIT BONUS FLAG 2](https://forms.gle/EkseAMEBUS7WpLmf8)
 
 ## Bonus Challenge #3
   
