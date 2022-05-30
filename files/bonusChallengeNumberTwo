@@ -1,0 +1,4 @@
+#!/bin/bash
+# Execute me to get your bonus flag 2
+echo "ZWNobyAiVXN3N0ZKemdzaDZZbVRpd0M3ZjVqZ0dXVmVjbm1DVnUi" > encoded
+$(base64 -d encoded | tr -d \")
