@@ -348,7 +348,7 @@ The password is inside the file `bonusChallengeNumberOne`
 </details>
 
 
-🚩 You can submit your flag here : [SUBMIT BONUS FLAG 1](google.com)
+🚩 You can submit your flag here : [SUBMIT BONUS FLAG 1](https://forms.gle/PdTvZgEeeiJnwuECA)
 
 ## Bonus Challenge #2
   
@@ -368,9 +368,9 @@ None.
 </details>
 
 
-🚩 You can submit your flag here : [SUBMIT BONUS FLAG 2](google.com)
+🚩 You can submit your flag here : [SUBMIT BONUS FLAG 2](https://forms.gle/PdTvZgEeeiJnwuECA)
 
-## Bonus Challenge #2
+## Bonus Challenge #3
   
   Download this file using one of these commands `wget` or `curl`
   
@@ -388,6 +388,6 @@ None.
 </details>
 
 
-🚩 You can submit your flag here : [SUBMIT BONUS FLAG 3](google.com)
+🚩 You can submit your flag here : [SUBMIT BONUS FLAG 3](https://forms.gle/hHm55hkbiG39axX27)
 
 
